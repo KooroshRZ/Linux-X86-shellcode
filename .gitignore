@@ -1,0 +1,3 @@
+*.o
+vuln.c
+bin/vuln
